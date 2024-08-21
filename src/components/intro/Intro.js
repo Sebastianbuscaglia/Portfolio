@@ -21,12 +21,12 @@ const Intro = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>1+ year</small>
+              <small>2+ year</small>
             </article>
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
               <h5>Projects</h5>
-              <small>5+ Completed Projects</small>
+              <small>10+ Completed Projects</small>
             </article>
           </div>
           <p>
@@ -39,6 +39,8 @@ const Intro = () => {
             - I believe in keeping my clients engaged throughout the development process, ensuring they are fully informed and satisfied with the progress of their project.
             <br />
             Despite my relatively short tenure, I have demonstrated a fast acquisition of skills and the ability to deliver high-quality projects. I am excited by the opportunity to continue growing and tackling new challenges in the field of software development.
+            <br />
+            Currently, I am working as a Full-stack Developer at Magnetic Cash, where I have successfully completed over 10 projects that are operational in various companies across Latin America and Europe.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
